@@ -1,0 +1,3 @@
+[submodule "Unity/Assets/Feature"]
+	path = Unity/Assets/Feature
+	url = https://github.com/mbalrog6/Feature.git
